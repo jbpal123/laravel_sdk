@@ -1,0 +1,16 @@
+{
+    "name": "mahindra/cc_auth",
+    "description": "This package will do authentication using sso",
+    "autoload": {
+        "psr-4": {
+            "Mahindra\\CcAuth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jangbahadur Pal",
+            "email": "pal.jangbahadur@mahindra.com"
+        }
+    ],
+    "require": {}
+}
